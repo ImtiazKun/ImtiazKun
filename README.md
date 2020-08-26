@@ -5,7 +5,7 @@ I am currently in search of opportunities. My favorite programming language is j
 ### Skills:
   Reactjs / Node / Html / CSS / Javascript
 
-### Github stats
+### Github stats:
 ![ImtiazKun's github stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dracula)
 
 
