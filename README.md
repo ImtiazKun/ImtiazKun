@@ -1,3 +1,3 @@
 ### Hi there 👋
 
-[![Github Stats](https://github-readme-stats.vercel.app/api?username=ImtiazKun)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dracula)
