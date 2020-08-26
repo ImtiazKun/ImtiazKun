@@ -6,7 +6,7 @@ I am currently in search of opportunities. My favorite programming language is j
   Reactjs / Node / Html / CSS / Javascript
 
 ### Github stats:
-![ImtiazKun's github stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dracula)
+![ImtiazKun's github stats](https://github-readme-stats.vercel.app/api?username=ImtiazKun&show_icons=true&theme=dracula)
 
 
 - 🔭 I’m currently working on an eCommerce website. 
