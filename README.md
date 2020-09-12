@@ -1,6 +1,6 @@
-![]()
+
 ### Hi there 👋, I am Imtiaz Al Shahriar.
-###### www.imtiazkun.github.io/-
+###### ![View Portfolio](www.imtiazkun.github.io/-)
 #### I am a web developer.
 I am currently in search of opportunities. My favorite programming language is javascript. 
 
