@@ -2,16 +2,13 @@
 ### Hi there 👋, I am Imtiaz Al Shahriar.
 ###### [View Portfolio](https://imtiazkun.github.io/-/)
 #### I am a web developer.
-I am currently in search of opportunities. My favorite programming language is javascript. 
-
-### Skills:
-  Reactjs / Node / Html / CSS / Javascript
+I am currently in search of opportunities.
 
 ### Github stats:
 ![ImtiazKun's github stats](https://github-readme-stats.vercel.app/api?username=ImtiazKun&show_icons=true&theme=dracula)
 
 
-- 🔭 I’m currently working on an eCommerce website. 
+- 🔭 I’m currently working on an open source project. 
 - 👯 I’m looking to collaborate on any Open source program I'm capable of. 
 - 📫 How to reach me: Mail me alshahriar.me@gmail.com 
 - ⚡ Fun fact: I love watching anime and making games. 
