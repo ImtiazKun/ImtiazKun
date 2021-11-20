@@ -7,6 +7,7 @@ I am currently in search of opportunities.
 ### Github stats:
 ![ImtiazKun's github stats](https://github-readme-stats.vercel.app/api?username=ImtiazKun&show_icons=true&theme=dracula)
 
+![](https://komarev.com/ghpvc/?username=imtiazkun)
 
 - 🔭 I’m currently working on an open source project. 
 - 👯 I’m looking to collaborate on any Open source program I'm capable of. 
