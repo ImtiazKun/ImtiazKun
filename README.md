@@ -5,7 +5,7 @@
 I am currently in search of opportunities.
 
 ### Github stats:
-![ImtiazKun's github stats](https://github-readme-stats.vercel.app/api?username=ImtiazKun&show_icons=true&theme=dracula)
+![ImtiazKun's github stats](https://github-readme-stats.vercel.app/api?username=ImtiazKun&show_icons=true&theme=radical)
 
 ![](https://komarev.com/ghpvc/?username=imtiazkun)
 
