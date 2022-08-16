@@ -1,6 +1,6 @@
 
 ### Hi there 👋, I am Imtiaz Al Shahriar.
-###### [View Portfolio](https://imtiazkun.github.io/-/)
+###### [View Portfolio](https://shariar.dev)
 #### I am a Unity Game Developer & NodeJS Developer (secretly I'm into all of tech 👀).
 
 ### Github stats:
