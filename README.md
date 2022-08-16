@@ -1,8 +1,7 @@
 
 ### Hi there 👋, I am Imtiaz Al Shahriar.
 ###### [View Portfolio](https://imtiazkun.github.io/-/)
-#### I am a NodeJS Developer & Linux Enthusiast.
-I am currently in search of opportunities.
+#### I am a Unity Game Developer & NodeJS Developer (secretly I'm into all of tech 👀).
 
 ### Github stats:
 ![ImtiazKun's github stats](https://github-readme-stats.vercel.app/api?username=ImtiazKun&show_icons=true&theme=radical)
